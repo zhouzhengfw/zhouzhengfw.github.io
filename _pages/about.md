@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Developer from Firework Camera Team
 
 profile:
   align: right
   image: author.jpeg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Jiangsu, China </p>
+    <p>Jiangsu province, China </p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -23,3 +22,10 @@ You can get camera app from [Google play](https://play.google.com/store/apps/det
 ## About Firework
 
 Welcome to [Firework](https://firework.com/), the world’s fastest growing short-video platform for publishers and businesses on the open web.
+
+## About Firework Camera
+Meet the all new Firework Camera! Join our network of thousands of the top brands and publishers using Firework to tell big stories with short videos and livestream events.
+<ul>
+<li>Live Shopping: Bring your products to life with live shopping events.</li>
+<li>Product Showcase: Create short videos that make your products stand out.</li>
+</ul>
